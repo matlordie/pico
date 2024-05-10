@@ -94,9 +94,9 @@ function Items() {
           <p className="font-semibold text-neutral-500">Live</p>
         </div>
       </div>
-      <div className="items-center justify-center flex flex-wrap sm:items-center gap-x-3 sm:gap-x-1 gap-y-3 sm:max-w-5xl mx-auto">
+      <div className="items-center  justify-center flex flex-wrap sm:items-center gap-x-3 sm:gap-x-1 gap-y-3 sm:max-w-5xl mx-auto">
         {database.map((bear) => (
-          <div className="border bg-white border-neutral-200 hover:border-neutral-300  transition w-fit rounded-lg  shadow">
+          <div className="border bg-neutral-100 border-neutral-200  transition w-fit rounded-lg">
             <img
               src={bear.image}
               alt={bear.code}
