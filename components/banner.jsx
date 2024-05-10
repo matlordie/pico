@@ -70,7 +70,7 @@ export function Banner() {
                 </svg>
               </a>
               <a
-                href=""
+                href="https://github.com/matlordie/pico"
                 target="_blank"
                 className="h-5 w-5 rounded-full flex justify-center items-center hover:text-neutral-700 cursor-pointer transition"
               >

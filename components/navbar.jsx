@@ -20,7 +20,9 @@ export function Navbar() {
           </svg>
         </div>
         <button className="bg-neutral-100 px-3 py-1 rounded-lg text-xs text-neutral-800 font-semibold border border-neutral-300 active:bg-neutral-200/70 outline-none">
-          Connect Wallet
+          <a href="https://phantom.app/" target="_blank">
+            Connect Wallet
+          </a>
         </button>
       </div>
     </nav>
