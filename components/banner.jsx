@@ -1,6 +1,6 @@
 export function Banner() {
   return (
-    <div className="pt-5  mt-11 bg-gradient-to-tr from-neutral-100 to-emerald-200">
+    <div className="pt-5 mt-11 bg-gradient-to-tr from-neutral-100 to-emerald-200">
       <div className="max-w-2xl mx-auto sm:rounded-md px-5 py-5">
         <img
           src="/okay-bears.jpeg"
@@ -8,7 +8,7 @@ export function Banner() {
           className="h-[220px] mx-auto lg:h-[170px] w-full object-cover sm:rounded-lg"
         />
         <div className="mt-5 space-y-2 mb-5">
-          <div className="flex justify-between items-center text-neutral-500">
+          <div className="flex justify-between items-center text-neutral-700">
             <img
               src="/okaybears-logo.png"
               alt="okaybears"

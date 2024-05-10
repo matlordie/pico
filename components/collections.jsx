@@ -100,7 +100,7 @@ function Items() {
             <img
               src={bear.image}
               alt={bear.code}
-              className="sm:h-[180px] h-[160px] w-full rounded-t-lg"
+              className="sm:h-[180px] h-[180px] w-full rounded-t-lg"
             />
             <div className="text-[0.90rem] sm:text-[15px] mt-3 px-2 pb-2 tracking-wide">
               <p className="font-semibold cursor-pointer hover:text-neutral-500">
