@@ -1,4 +1,4 @@
-# Pico - NFT market place
+# Pico - NFT Market Place
 
-this is a project built with ReactJs + Vite
+This is a project built with ReactJs + Vite focused on **OKAY BEARS NFT**
 
