@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Geist Variable";
+  font-optical-sizing: auto;
+}
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+}
